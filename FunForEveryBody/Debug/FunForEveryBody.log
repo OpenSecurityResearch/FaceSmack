@@ -1,0 +1,25 @@
+﻿Build started 11/11/2013 10:11:16 AM.
+     1>Project "C:\cache\Research\CSAW_2013\FunForEveryBody\FunForEveryBody\FunForEveryBody.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FunForEveryBody.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\cache\Research\CSAW_2013\FunForEveryBody\Debug\FunForEveryBody.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Debug\FunForEveryBody.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\cache\Research\CSAW_2013\FunForEveryBody\Debug\FunForEveryBody.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\cache\Research\CSAW_2013\FunForEveryBody\Debug\FunForEveryBody.lib" /MACHINE:X86 Debug\mainForm.res
+         Debug\main.obj
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         FunForEveryBody.vcxproj -> C:\cache\Research\CSAW_2013\FunForEveryBody\Debug\FunForEveryBody.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\cache\Research\CSAW_2013\FunForEveryBody\Debug\FunForEveryBody.exe;#1" /manifest Debug\FunForEveryBody.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\FunForEveryBody.unsuccessfulbuild".
+         Touching "Debug\FunForEveryBody.lastbuildstate".
+     1>Done Building Project "C:\cache\Research\CSAW_2013\FunForEveryBody\FunForEveryBody\FunForEveryBody.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.40
