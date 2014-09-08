@@ -5,10 +5,14 @@ By Brad Antoniewicz (@brad_anton)
 
 Download binary from Release/
 
-The goal of the challenge is to obtain the key (in format: key{key here}) by clicking buttons 
-in a specific order. The order can be reversed out of the binary - with enough dedication. On 
-average, it's taken people between 4-10 hours to get it. <BR><BR>
+The goal of the challenge is to obtain the key (in format: 
+key{key here}) by clicking buttons in a specific order. 
+The order can be reversed out of the binary - with enough 
+dedication. On average, it's taken people between 4-10 
+hours to get it.
 
-If you start to play around with the challenge you'll notice each button click causes a change 
-in the way a sentence is formed, you know when you got it right because the status message will 
-read "The key Is key{some sentence}" instead of "The key is NOT key{some sentence}".
+If you start to play around with the challenge you'll notice 
+each button click causes a change in the way a sentence is 
+formed, you know when you got it right because the status 
+message will read "The key Is key{some sentence}" instead of 
+"The key is NOT key{some sentence}".
